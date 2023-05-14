@@ -642,7 +642,9 @@ header.header.headerFixed {
 
 
 /* start about_wrap */
-
+.about-me-text p {
+    font-size: 18px;
+}
 .about_wrap {
     padding: 240px 0;
     background: #fff;
